@@ -1,6 +1,15 @@
 # Agents
-Agents est un projet dédié à la conception et à l’intégration d’agents intelligents collaborant entre eux pour automatiser des tâches complexes liées à la création de contenus stratégiques.
+Agents est un dépôt GitHub regroupant une série de projets explorant la puissance des agents intelligents et leur collaboration via des protocoles de communication avancés.
 
-À travers différents challenges, ces agents communiquent via un protocole dédié pour produire de manière autonome des plans d’affaires complets et des présentations professionnelles (pitch decks), à partir d’une simple idée de départ.
+Chaque projet met en œuvre des scénarios concrets où plusieurs agents interagissent pour accomplir des tâches complexes, telles que :
 
-Ce dépôt illustre l’efficacité des architectures multi-agents dans le domaine de l’intelligence artificielle appliquée au business, ouvrant la voie à des solutions innovantes et modulaires capables d’optimiser la prise de décision et la créativité.
+   la génération de plans d’affaires,
+
+   l’analyse de marché,
+
+   la création de pitch decks,
+
+et bien plus à venir...
+
+Ces projets démontrent comment les architectures multi-agents, combinées à des outils d’IA modernes (LLMs, APIs, protocoles A2A...), peuvent automatiser et améliorer la prise de décision stratégique.
+
